@@ -1,0 +1,34 @@
+[
+  {
+    "title": "workout",
+    "description": "To lose weight",
+    "priority": "Very high",
+    "dueDate": "2024-09-31",
+    "status": "Not Completed",
+    "id": 1
+  },
+  {
+    "title": "CAP1",
+    "description": "Complete it by today",
+    "priority": "High",
+    "dueDate": "2024-05-15",
+    "status": "Not Completed",
+    "id": 2
+  },
+  {
+    "title": "SWS CAP2",
+    "description": "Complete it by end of the June",
+    "priority": "High",
+    "dueDate": "2024-05-30",
+    "status": "Not Completed",
+    "id": 3
+  },
+  {
+    "title": "Study",
+    "description": "No mood",
+    "priority": "Low",
+    "dueDate": "2024-07-15",
+    "status": "Completed",
+    "id": 4
+  }
+]
